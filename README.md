@@ -22,20 +22,11 @@ Para aprovechar al máximo este repositorio, asegúrate de cumplir con los sigui
 
 - Figma: Acceso a los archivos de diseño en Figma para realizar modificaciones o revisiones.
 
-### Instalación y Configuración:
-Clonar el Repositorio:
+### Instalación y Configuración
 
-bash
-git clone hhttps://github.com/duivele/Gestion_de_proyectos.git
-Instalar Dependencias:
+- Clonar el Repositorio:
 
-bash
-npm install
-Configurar la Base de Datos:
-
-Crea una base de datos en MySQL.
-
-Configura el archivo .env con las credenciales de la base de datos.
+git clone https://github.com/duivele/Gestion_de_proyectos.git
 
 
 ## Proyecto Relacionado: Dui Store
